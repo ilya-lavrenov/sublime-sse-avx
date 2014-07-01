@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_cvtepu8_epi64(${1:__m128i a})]]></content>
+    <tabTrigger>_mm256_cvtepu8_epi64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

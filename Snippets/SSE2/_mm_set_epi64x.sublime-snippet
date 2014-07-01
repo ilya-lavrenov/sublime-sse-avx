@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE2</description>
+    <content><![CDATA[_mm_set_epi64x(${1:__int64 e1}, ${2:__int64 e0})]]></content>
+    <tabTrigger>_mm_set_epi64x</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

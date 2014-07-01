@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE3</description>
+    <content><![CDATA[_mm_hadd_ps(${1:__m128 a}, ${2:__m128 b})]]></content>
+    <tabTrigger>_mm_hadd_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_andnot_ps(${1:__m256 a}, ${2:__m256 b})]]></content>
+    <tabTrigger>_mm256_andnot_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

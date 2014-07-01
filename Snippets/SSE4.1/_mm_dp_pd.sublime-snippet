@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE4.1</description>
+    <content><![CDATA[_mm_dp_pd(${1:__m128d a}, ${2:__m128d b}, ${3:const int imm})]]></content>
+    <tabTrigger>_mm_dp_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

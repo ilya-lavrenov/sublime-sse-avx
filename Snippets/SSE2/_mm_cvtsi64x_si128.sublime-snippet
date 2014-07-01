@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE2</description>
+    <content><![CDATA[_mm_cvtsi64x_si128(${1:__int64 a})]]></content>
+    <tabTrigger>_mm_cvtsi64x_si128</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

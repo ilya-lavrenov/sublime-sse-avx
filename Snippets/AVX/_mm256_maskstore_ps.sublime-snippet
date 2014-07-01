@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_maskstore_ps(${1:float * mem_addr}, ${2:__m256i mask}, ${3:__m256 a})]]></content>
+    <tabTrigger>_mm256_maskstore_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

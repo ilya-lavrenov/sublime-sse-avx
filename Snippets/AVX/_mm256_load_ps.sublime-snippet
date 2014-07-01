@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_load_ps(${1:float const * mem_addr})]]></content>
+    <tabTrigger>_mm256_load_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_setr_epi16(${1:short e15}, ${2:short e14}, ${3:short e13}, ${4:short e12}, ${5:short e11}, ${6:short e10}, ${7:short e9}, ${8:short e8}, ${9:short e7}, ${10:short e6}, ${11:short e5}, ${12:short e4}, ${13:short e3}, ${14:short e2}, ${15:short e1}, ${16:short e0})]]></content>
+    <tabTrigger>_mm256_setr_epi16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

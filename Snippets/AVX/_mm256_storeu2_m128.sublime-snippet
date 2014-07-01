@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_storeu2_m128(${1:float* hiaddr}, ${2:float* loaddr}, ${3:__m256 a})]]></content>
+    <tabTrigger>_mm256_storeu2_m128</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

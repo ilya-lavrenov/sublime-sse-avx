@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_MM_GET_FLUSH_ZERO_MODE()]]></content>
+    <tabTrigger>_MM_GET_FLUSH_ZERO_MODE</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

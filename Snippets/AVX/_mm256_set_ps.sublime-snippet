@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_set_ps(${1:float e7}, ${2:float e6}, ${3:float e5}, ${4:float e4}, ${5:float e3}, ${6:float e2}, ${7:float e1}, ${8:float e0})]]></content>
+    <tabTrigger>_mm256_set_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

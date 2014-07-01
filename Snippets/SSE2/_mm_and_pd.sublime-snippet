@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE2</description>
+    <content><![CDATA[_mm_and_pd(${1:__m128d a}, ${2:__m128d b})]]></content>
+    <tabTrigger>_mm_and_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

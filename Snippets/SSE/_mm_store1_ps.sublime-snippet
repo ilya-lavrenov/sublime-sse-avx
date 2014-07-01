@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_mm_store1_ps(${1:float* mem_addr}, ${2:__m128 a})]]></content>
+    <tabTrigger>_mm_store1_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_set_pd(${1:double e3}, ${2:double e2}, ${3:double e1}, ${4:double e0})]]></content>
+    <tabTrigger>_mm256_set_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_shufflehi_epi16(${1:__m256i a}, ${2:const int imm})]]></content>
+    <tabTrigger>_mm256_shufflehi_epi16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_blendv_epi8(${1:__m256i a}, ${2:__m256i b}, ${3:__m256i mask})]]></content>
+    <tabTrigger>_mm256_blendv_epi8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_mpsadbw_epu8(${1:__m256i a}, ${2:__m256i b}, ${3:const int imm})]]></content>
+    <tabTrigger>_mm256_mpsadbw_epu8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

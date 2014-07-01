@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm_mask_i64gather_pd(${1:__m128d src}, ${2:double const* base_addr}, ${3:__m128i vindex}, ${4:__m128d mask}, ${5:const int scale})]]></content>
+    <tabTrigger>_mm_mask_i64gather_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

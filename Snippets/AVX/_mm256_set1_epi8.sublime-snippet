@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_set1_epi8(${1:char a})]]></content>
+    <tabTrigger>_mm256_set1_epi8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_mm_set_ps1(${1:float a})]]></content>
+    <tabTrigger>_mm_set_ps1</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE2</description>
+    <content><![CDATA[_mm_setr_epi8(${1:char e15}, ${2:char e14}, ${3:char e13}, ${4:char e12}, ${5:char e11}, ${6:char e10}, ${7:char e9}, ${8:char e8}, ${9:char e7}, ${10:char e6}, ${11:char e5}, ${12:char e4}, ${13:char e3}, ${14:char e2}, ${15:char e1}, ${16:char e0})]]></content>
+    <tabTrigger>_mm_setr_epi8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

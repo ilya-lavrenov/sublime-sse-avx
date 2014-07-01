@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_m_pshufw(${1:__m64 a}, ${2:int imm})]]></content>
+    <tabTrigger>_m_pshufw</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

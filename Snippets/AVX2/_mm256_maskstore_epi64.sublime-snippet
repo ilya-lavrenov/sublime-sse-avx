@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_maskstore_epi64(${1:__int64* mem_addr}, ${2:__m256i mask}, ${3:__m256i a})]]></content>
+    <tabTrigger>_mm256_maskstore_epi64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

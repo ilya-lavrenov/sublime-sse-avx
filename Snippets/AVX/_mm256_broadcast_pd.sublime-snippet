@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_broadcast_pd(${1:__m128d const * mem_addr})]]></content>
+    <tabTrigger>_mm256_broadcast_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

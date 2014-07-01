@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE2</description>
+    <content><![CDATA[_mm_mfence(${1:void})]]></content>
+    <tabTrigger>_mm_mfence</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

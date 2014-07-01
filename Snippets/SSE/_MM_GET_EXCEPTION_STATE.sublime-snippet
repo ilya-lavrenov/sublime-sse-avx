@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_MM_GET_EXCEPTION_STATE()]]></content>
+    <tabTrigger>_MM_GET_EXCEPTION_STATE</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

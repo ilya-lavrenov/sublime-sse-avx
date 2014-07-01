@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_permute_pd(${1:__m256d a}, ${2:int imm})]]></content>
+    <tabTrigger>_mm256_permute_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

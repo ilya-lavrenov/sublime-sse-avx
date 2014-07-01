@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_setr_m128i(${1:__m128i lo}, ${2:__m128i hi})]]></content>
+    <tabTrigger>_mm256_setr_m128i</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

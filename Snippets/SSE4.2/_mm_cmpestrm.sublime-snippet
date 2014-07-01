@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE4.2</description>
+    <content><![CDATA[_mm_cmpestrm(${1:__m128i a}, ${2:int la}, ${3:__m128i b}, ${4:int lb}, ${5:const int imm})]]></content>
+    <tabTrigger>_mm_cmpestrm</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

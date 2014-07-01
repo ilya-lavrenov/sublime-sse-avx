@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_min_epu16(${1:__m256i a}, ${2:__m256i b})]]></content>
+    <tabTrigger>_mm256_min_epu16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

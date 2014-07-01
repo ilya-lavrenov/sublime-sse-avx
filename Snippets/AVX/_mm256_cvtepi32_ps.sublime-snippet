@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_cvtepi32_ps(${1:__m256i a})]]></content>
+    <tabTrigger>_mm256_cvtepi32_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

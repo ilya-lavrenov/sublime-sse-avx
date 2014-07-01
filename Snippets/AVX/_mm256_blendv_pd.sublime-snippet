@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_blendv_pd(${1:__m256d a}, ${2:__m256d b}, ${3:__m256d mask})]]></content>
+    <tabTrigger>_mm256_blendv_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

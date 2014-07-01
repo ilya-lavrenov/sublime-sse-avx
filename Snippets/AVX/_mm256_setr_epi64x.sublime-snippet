@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_setr_epi64x(${1:__int64 e3}, ${2:__int64 e2}, ${3:__int64 e1}, ${4:__int64 e0})]]></content>
+    <tabTrigger>_mm256_setr_epi64x</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSSE3</description>
+    <content><![CDATA[_mm_shuffle_pi8(${1:__m64 a}, ${2:__m64 b})]]></content>
+    <tabTrigger>_mm_shuffle_pi8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

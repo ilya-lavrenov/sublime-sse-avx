@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_loadu2_m128(${1:float const* hiaddr}, ${2:float const* loaddr})]]></content>
+    <tabTrigger>_mm256_loadu2_m128</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

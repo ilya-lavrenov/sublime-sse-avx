@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm256_permutevar8x32_ps(${1:__m256 a}, ${2:__m256i idx})]]></content>
+    <tabTrigger>_mm256_permutevar8x32_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

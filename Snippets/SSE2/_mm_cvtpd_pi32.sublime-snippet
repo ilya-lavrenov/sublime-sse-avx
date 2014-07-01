@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE2</description>
+    <content><![CDATA[_mm_cvtpd_pi32(${1:__m128d a})]]></content>
+    <tabTrigger>_mm_cvtpd_pi32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

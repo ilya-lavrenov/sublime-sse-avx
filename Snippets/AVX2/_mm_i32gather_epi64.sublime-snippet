@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX2</description>
+    <content><![CDATA[_mm_i32gather_epi64(${1:__int64 const* base_addr}, ${2:__m128i vindex}, ${3:const int scale})]]></content>
+    <tabTrigger>_mm_i32gather_epi64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

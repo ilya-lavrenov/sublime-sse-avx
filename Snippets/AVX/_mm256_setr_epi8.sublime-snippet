@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_setr_epi8(${1:char e31}, ${2:char e30}, ${3:char e29}, ${4:char e28}, ${5:char e27}, ${6:char e26}, ${7:char e25}, ${8:char e24}, ${9:char e23}, ${10:char e22}, ${11:char e21}, ${12:char e20}, ${13:char e19}, ${14:char e18}, ${15:char e17}, ${16:char e16}, ${17:char e15}, ${18:char e14}, ${19:char e13}, ${20:char e12}, ${21:char e11}, ${22:char e10}, ${23:char e9}, ${24:char e8}, ${25:char e7}, ${26:char e6}, ${27:char e5}, ${28:char e4}, ${29:char e3}, ${30:char e2}, ${31:char e1}, ${32:char e0})]]></content>
+    <tabTrigger>_mm256_setr_epi8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

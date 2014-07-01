@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE4.1</description>
+    <content><![CDATA[_mm_test_mix_ones_zeros(${1:__m128i a}, ${2:__m128i mask})]]></content>
+    <tabTrigger>_mm_test_mix_ones_zeros</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

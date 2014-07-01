@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_mm_loadu_ps(${1:float const* mem_addr})]]></content>
+    <tabTrigger>_mm_loadu_ps</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_mm_getcsr(${1:void})]]></content>
+    <tabTrigger>_mm_getcsr</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

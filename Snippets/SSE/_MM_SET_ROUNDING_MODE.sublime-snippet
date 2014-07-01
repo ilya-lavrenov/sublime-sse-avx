@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_MM_SET_ROUNDING_MODE(${1:int a})]]></content>
+    <tabTrigger>_MM_SET_ROUNDING_MODE</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

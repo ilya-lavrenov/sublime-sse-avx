@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE4.1</description>
+    <content><![CDATA[_mm_round_pd(${1:__m128d a}, ${2:int rounding})]]></content>
+    <tabTrigger>_mm_round_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

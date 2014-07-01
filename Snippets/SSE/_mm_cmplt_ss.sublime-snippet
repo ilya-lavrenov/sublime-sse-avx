@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_mm_cmplt_ss(${1:__m128 a}, ${2:__m128 b})]]></content>
+    <tabTrigger>_mm_cmplt_ss</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

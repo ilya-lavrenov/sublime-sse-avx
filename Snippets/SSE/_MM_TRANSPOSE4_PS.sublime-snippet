@@ -1,0 +1,6 @@
+<snippet>
+    <description>SSE</description>
+    <content><![CDATA[_MM_TRANSPOSE4_PS(${1:__m128 row0}, ${2:__m128 row1}, ${3:__m128 row2}, ${4:__m128 row3})]]></content>
+    <tabTrigger>_MM_TRANSPOSE4_PS</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

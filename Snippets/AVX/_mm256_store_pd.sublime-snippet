@@ -1,0 +1,6 @@
+<snippet>
+    <description>AVX</description>
+    <content><![CDATA[_mm256_store_pd(${1:double * mem_addr}, ${2:__m256d a})]]></content>
+    <tabTrigger>_mm256_store_pd</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
